@@ -8,14 +8,14 @@ nav .site-nav section { line-height: 22px; margin-bottom: 40px;}
 nav .site-nav section h2 { margin: 20px 0 20px 0; }
 nav .site-nav section ul { margin: 0px; padding: 0px; }
 
-main { padding: 45px; float:left; max-width:700px; }
+main { padding: 45px; float:middle; max-width:700px; }
 main img { width:100%; max-width: 700px }
 main > * { max-width: 600px; margin-bottom: 30px }
 main > h1 { font-size:45px; text-transform: capitalize; display: none}
 main > h2 { font-size:30px; text-transform: capitalize}
 main > h3 { font-size:20px; text-transform: capitalize}
 main > h4 { font-size:35px; text-transform: capitalize}
-main p { line-height: 25px; font-size:16px; margin-top: 0px; }
+main p { line-height: 25px; font-size:20px; margin-top: 0px; }
 main > ul { line-height: 25px;}
 
 main hr { border:1px; clear:both; }
