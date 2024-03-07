@@ -1,0 +1,13 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+	<title>Yifan Lu</title>
+	<link>http://yifanlu.github.io/</link>
+	<description>Recent content on Yifan Lu</description>
+	<generator>Hugo -- gohugo.io</generator>
+	<language>en-us</language>
+    
+        <atom:link href="http://yifanlu.github.io/index.xml" rel="self" type="application/rss+xml" />
+	
+	
+	</channel>
+</rss>
